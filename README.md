@@ -101,7 +101,7 @@ Steps performed:
 * **Dense Layers**
 * **Activation**: Sigmoid for binary classification
 * **Dropout**: 0.2 To reduce biasness  by randomly freezing some weights
-* **Recurren Dropout**: 0.2 on recurrent hidden layers
+* **Recurrent Dropout**: 0.2 on recurrent hidden layers
 * **Loss**: Binary cross entropy for binary classification
 * **Metrics**: Accuracy
 * **Optimizer**: Adam optimizer
